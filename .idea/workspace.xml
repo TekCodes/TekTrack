@@ -1,14 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
+    <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65a164ab-ef61-4723-bc04-c4062858225d" name="Changes" comment="" />
+    <list default="true" id="65a164ab-ef61-4723-bc04-c4062858225d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppSample.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/app/(auth)/_layout.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/app/(auth)/sign-in.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/app/(auth)/sign-up.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/app/(tabs)/_layout.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/app/(tabs)/interships.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/app/(tabs)/interviews.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/app/(tabs)/jobs.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/app/_layout.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/app/index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/app/search/[query].jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/app/search/_layout.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/assets/adaptive-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/assets/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/assets/fonts/Poppins-Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/assets/fonts/Poppins-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/assets/fonts/Poppins-ExtraBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/assets/fonts/Poppins-ExtraLight.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/assets/fonts/Poppins-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/assets/fonts/Poppins-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/assets/fonts/Poppins-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/assets/fonts/Poppins-SemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/assets/fonts/Poppins-Thin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/assets/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/assets/icons/bookmark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/assets/icons/eye-hide.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/assets/icons/eye.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/assets/icons/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/assets/icons/left-arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/assets/icons/logout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/assets/icons/menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/assets/icons/play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/assets/icons/plus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/assets/icons/profile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/assets/icons/right-arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/assets/icons/search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/assets/icons/upload.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/assets/images/finding-job.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/assets/images/logo-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/assets/images/logoWhite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/assets/images/video-conference.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/assets/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/constants/icons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/constants/images.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/constants/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekTrackFrontEnd/TekTrack/tailwind.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app sample.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -27,25 +86,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.TrackApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/matthew123003/VSCodeProjects/TekTrack&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.TrackApplication.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "AliceGonzalez",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Lenovo/Documents/TEKTRACK/TekTrack",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "AndroidSdkUpdater"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="TrackApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Tek.Track.TrackApplication" />
